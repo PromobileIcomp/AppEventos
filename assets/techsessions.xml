@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<techsessions>
+	<days>
+		<day>
+			<date>16/01/2014</date>
+
+			<weekDay>Quinta-Feira</weekDay>
+			
+			<url>www.www.www</url>
+
+			<schedules>
+				<schedule>
+					<start>14:00</start>
+
+					<end>15:30</end>
+
+					<headlines>
+						<headline>
+							<title>Sessão A1</title>
+							<xmlFile>A1.xml</xmlFile>
+							<icon>sessao_tecnica</icon>
+						</headline>
+
+						<headline>
+							<title>Sessão B</title>
+							<xmlFile>B.xml</xmlFile>
+							<icon>sessao_tecnica</icon>
+						</headline>
+					</headlines>
+				</schedule>	
+
+				<schedule>
+					<start>16:00</start>
+					<end>17:30</end>
+
+					<headlines>
+						<headline>
+							<title>Sessão A2</title>
+							<xmlFile>A2.xml</xmlFile>
+							<icon>sessao_tecnica</icon>
+						</headline>
+
+						<headline>
+							<title>Sessão C</title>
+							<xmlFile>C.xml</xmlFile>
+							<icon>sessao_tecnica</icon>
+						</headline>
+					</headlines>
+				</schedule>
+			</schedules>
+		</day>
+
+		<day>
+			<date>17/01/2014</date>
+			<weekDay>Sexta-Feira</weekDay>
+
+			<schedules>
+				<schedule>
+					<start>08:30</start>
+					<end>10:00</end>
+
+					<headlines>
+						<headline>
+							<title>Sessão D</title>
+							<xmlFile>D.xml</xmlFile>
+							<icon>sessao_tecnica</icon>
+						</headline>
+					</headlines>
+				</schedule>	
+
+				<schedule>
+					<start>10:20</start>
+					<end>12:00</end>
+
+					<headlines>
+						<headline>
+							<title>Sessão E</title>
+							<xmlFile>E.xml</xmlFile>
+							<icon>sessao_tecnica</icon>
+						</headline>
+					</headlines>
+				</schedule>	
+
+				<schedule>
+					<start>10:20</start>
+					<end>12:00</end>
+
+					<headlines>
+						<headline>
+							<title>Sessão F</title>
+							<xmlFile>F.xml</xmlFile>
+							<icon>sessao_tecnica</icon>
+						</headline>
+					</headlines>
+				</schedule>	
+			</schedules>
+		</day>
+	</days>
+</techsessions>
