@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scheduleofevents>
+    <url >http://epa.icomp.ufam.edu.br/index.php/programacao</url>
+	<days>
+		<day>	
+			<date>16/01/2014</date>
+			<weekday>Quinta-Feira</weekday>
+			<schedules>
+				
+				<schedule>
+				    <start>08:00</start>
+				    <end>10:00</end>		
+					<events>
+					    <informacao >
+					    	<title>Credenciamento</title>
+					    	<icon>inscricao</icon>
+					    </informacao>
+					</events>    
+			   </schedule>
+		   
+				<schedule >
+				    <start>08:30</start>
+				    <end>09:00</end>
+				    <events>
+					    <informacao>
+					    	<title>Abertura</title>
+					    	<icon>abertura</icon>
+					    </informacao>
+				    </events>
+			   </schedule> 
+			   
+				<schedule>
+				    <start>09:00</start>
+				    <end>10:00</end>
+				    <events>
+				    	<palestra>
+					        <xmlfile>robsonlisboa.xml</xmlfile>
+					    	<title>Business Mindset: transformando desenvolvedores em empreendedores</title>
+					    	<icon>apresentacao</icon> 
+					    </palestra>
+				    </events>
+			   </schedule> 
+			   
+				<schedule>
+				    <start>10:00</start>
+				    <end>10:20</end>
+				    <events>
+						<informacao>
+					     	<title>Coffe-Break</title>
+					    	<icon>coffe_break</icon>
+					    </informacao>
+				    </events>
+			    </schedule>
+			    
+				<schedule>
+				    <start>10:20</start>
+				    <end>11:20</end>
+				    <events>
+						<palestra>
+					        <xmlfile>estevaoqueiroga.xml</xmlfile>
+					    	<title >O Processo Criativo</title>
+					    	<icon>apresentacao</icon>
+					    </palestra>
+				    </events>
+			    </schedule>
+			    
+				<schedule>
+				    <start>11:20</start>
+				    <end>12:00</end>
+				    <events>
+						<informacao>
+					        <title>Installfest</title>
+					    	<icon>instal</icon>
+					    </informacao>
+				    </events>
+			    </schedule>
+			    
+				<schedule>
+				    <start>12:00</start>
+				    <end>14:00</end>
+				    <events>
+						<informacao>
+					        <title>Almoço</title>
+					    	<icon>almoco</icon>
+					    </informacao>
+				    </events>
+			    </schedule>
+			    
+				<schedule>
+				    <start>14:00</start>
+				    <end>15:30</end>
+				    <events>
+						<conjuntodesessoes>
+					        <xmlfile>techsessions.xml</xmlfile>
+					    	<title>Sessão A1 e Sessão B</title>
+					    	<icon>sessao_tecnica</icon>
+					    </conjuntodesessoes>
+				    </events>
+			    </schedule>
+			    
+				<schedule>
+				    <start>15:30</start>
+				    <end>16:00</end>
+				    <events>
+						<informacao>
+					    	<title>Coffe-Break</title>
+					    	<icon>coffe_break</icon>
+					    </informacao>
+				    </events>
+			    </schedule>
+			    
+				<schedule>
+				    <start>16:00</start>
+				    <end>17:30</end>
+				    <events>
+						<conjuntodesessoes>
+				            <xmlfile>techsessions.xml</xmlfile>
+					    	<title>Sessão A2 e Sessão C</title>
+					    	<icon>sessao_tecnica</icon>
+					    </conjuntodesessoes>
+				    </events>
+			    </schedule>
+				
+				<schedule>
+				    <start>17:50</start>
+				    <end>18:50</end>
+				    <events>
+						<palestra>
+					        <xmlfile>andretapajos.xml</xmlfile>
+					    	<title >Oportunidade de Negócio no Mercado Mobile</title>
+					    	<icon>apresentacao</icon>
+					    </palestra>
+				    </events>
+			    </schedule>
+		    
+			</schedules>
+		</day>
+		
+		<day>	
+			<date>17/01/2014</date>
+			<weekday>Sexta-Feira</weekday>
+			<schedules>
+				
+				<schedule>
+				    <start>08:00</start>
+				    <end>10:00</end>		
+					<events>
+					    <informacao>
+					    	<title>Credenciamento / Registro das Equipes</title>
+					    	<icon>inscricao</icon>
+					    </informacao>
+					</events>    
+			   </schedule>
+		   
+				<schedule >
+				    <start>08:30</start>
+				    <end>10:00</end>
+				    <events>
+					    <sessaotecnica>
+					        <xmlfile>D.xml</xmlfile>
+					    	<title>Sessão D</title>
+					    	<icon>sessao_tecnica</icon>
+					    </sessaotecnica>
+				    </events>
+			   </schedule> 
+			   
+				<schedule>
+				    <start>09:00</start>
+				    <end>10:00</end>
+				    <events>
+				    	<informacao>
+					    	<title>Hackathon</title>
+					    	<icon>hackton</icon>
+					    </informacao>
+				    </events>
+			   </schedule> 
+			   
+				<schedule>
+				    <start>10:00</start>
+				    <end>10:20</end>
+				    <events>
+						<informacao>
+					     	<title>Coffe-Break</title>
+					    	<icon>coffe_break</icon>
+					    </informacao>
+					    
+						<informacao>
+					    	<title>Hackathon</title>
+					    	<icon>hackton</icon>
+					    </informacao>
+				    </events>
+			    </schedule>
+			    
+				<schedule>
+				    <start>10:20</start>
+				    <end>12:00</end>
+				    <events>
+						<sessaotecnica>
+					        <xmlfile>E.xml</xmlfile>
+					    	<title>Sessão E</title>
+					    	<icon>sessao_tecnica</icon>
+					    </sessaotecnica>
+					    
+						<informacao>
+					    	<title>Hackathon</title>
+					    	<icon>hackton</icon>
+					    </informacao>
+				    </events>
+			    </schedule>
+			    
+				<schedule>
+				    <start>12:00</start>
+				    <end>14:00</end>
+				    <events>
+						<informacao>
+					        <title>Almoço</title>
+					    	<icon>almoco</icon>
+					    </informacao>
+					    
+						<informacao>
+					    	<title>Hackathon</title>
+					    	<icon>hackton</icon>
+					    </informacao>
+				    </events>
+			    </schedule>
+			    
+				<schedule>
+				    <start>14:00</start>
+				    <end>15:30</end>
+				    <events>
+						<sessaotecnica>
+					        <xmlfile>F.xml</xmlfile>
+					    	<title>Sessão F</title>
+					    	<icon>sessao_tecnica</icon>
+					    </sessaotecnica>
+					    
+						<informacao>
+					    	<title>Hackathon</title>
+					    	<icon>hackton</icon>
+					    </informacao>
+				    </events>
+			    </schedule>
+			    
+				<schedule>
+				    <start>15:30</start>
+				    <end>17:30</end>
+				    <events>
+						<informacao>
+					    	<title>Coffe-Break</title>
+					    	<icon>coffe_break</icon>
+					    </informacao>
+					    
+						<informacao>
+					    	<title>Hackathon</title>
+					    	<icon>hackton</icon>
+					    </informacao>
+				    </events>
+			    </schedule>
+			    
+				<schedule>
+				    <start>17:50</start>
+				    <end>18:50</end>
+				    <events>
+						<informacao>
+					    	<title>Premiação dos três melhores projetos</title>
+					    	<icon>trofeu</icon>
+					    </informacao>
+				    </events>
+			    </schedule>
+		    
+			</schedules>
+		</day>
+		
+		
+	</days>	
+</scheduleofevents>    
