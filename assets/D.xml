@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<session>
+	<chair>null</chair>
+	<local>Auditório Rio Javarí</local>
+
+	<papers>
+		<paper>
+			<title>D: Arquitetura de Informação: Foco no Usuário</title>
+			<abstract>null</abstract>
+
+			<authors>
+				<author>
+					<name>Álvaro Lourenço</name>
+					<afiliation>null</afiliation>
+					<email>null</email>
+				</author>
+			</authors>
+		</paper>
+	</papers>
+</session>

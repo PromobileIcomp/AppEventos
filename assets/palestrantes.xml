@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talksprogram>
+    <days>
+        <day>
+	    	<date>16/01/2014</date>
+			<url>http://epa.icomp.ufam.edu.br/index.php/palestras</url>
+			<schedules>    
+			    
+				<schedule>
+				    <start>09:00</start>
+				    <end>10:00</end>
+					<headlines>
+						<headline>
+						    <title>Business Mindset: transformando desenvolvedores em empreendedores</title>
+						    <photo>robsonlisboa2</photo>
+						    <xmlfile>robsonlisboa.xml</xmlfile> 
+							<name>Robson Lisboa</name>
+							<filiation>Head de Sourcing and Partnership da Samsung América Latina </filiation> 		
+						</headline>
+					</headlines>
+				</schedule>
+				
+				<schedule>
+				    <start>10:20</start>
+				    <end>11:20</end>
+					<headlines>
+						<headline >
+							    <title >O processo Criativo</title>
+						    <photo>estevao4</photo>
+						    <xmlfile>estevaoqueiroga.xml</xmlfile> 
+							<name>Estevão Queiróga</name>
+							<filiation>Diretor de criação do estúdio de games PetitFabrik </filiation>		
+						</headline>
+					</headlines>
+				</schedule>
+				
+				<schedule>
+				    <start>17:50</start>
+				    <end>18:50</end>	  
+					<headlines>
+						<headline >
+						    <photo>andretapajos</photo>
+						    <title>O Mercado de Games</title>
+						    <xmlfile>andretapajos.xml</xmlfile> 
+							<name>André Tapajós</name>
+							<filiation>CEO da Tap4 Mobile </filiation> 
+						</headline>
+					</headlines>
+				</schedule>
+				
+		   </schedules> 
+		</day>	
+		
+        
+        <day>
+	    	<date>18/01/2014</date>
+			<url>http://epa.icomp.ufam.edu.br/index.php/palestras</url>
+			<schedules>    
+			    
+				<schedule>
+				    <start>09:00</start>
+				    <end>10:00</end>    	  
+					<headlines>
+						<headline>
+							<title>Business Mindset: transformando desenvolvedores em empreendedores</title>
+						    <photo>robsonlisboa2</photo>
+						    <xmlfile>robsonlisboa.xml</xmlfile> 
+							<name>Robson Lisboa</name>
+							<filiation>Head de Sourcing and Partnership da Samsung América Latina </filiation> 		
+						</headline>
+					
+						<headline >
+						    <title >O processo Criativo</title>	
+						    <photo>estevao4</photo>
+						    <xmlfile>estevaoqueiroga.xml</xmlfile> 
+							<name>Estevão Queiróga</name>
+							<filiation>Diretor de criação do estúdio de games PetitFabrik </filiation>		
+						</headline>
+							
+					</headlines>
+				</schedule>
+				
+				<schedule>
+				    <start>10:20</start>
+				    <end>11:20</end>
+					<headlines>
+						<headline >
+						    <title >O processo Criativo</title>
+						    <photo>estevao4</photo>
+						    <xmlfile>estevaoqueiroga.xml</xmlfile> 
+							<name>Estevão Queiróga</name>
+							<filiation>Diretor de criação do estúdio de games PetitFabrik </filiation>		
+						</headline>
+						
+						<headline >
+						    <photo>andretapajos</photo>
+						    <title>O Mercado de Games</title>	
+						    <xmlfile>andretapajos.xml</xmlfile> 
+							<name>André Tapajós</name>
+							<filiation>CEO da Tap4 Mobile </filiation> 
+						</headline>
+					</headlines>
+				</schedule>
+				
+				<schedule>
+				    <start>17:50</start>
+				    <end>18:50</end>
+					<headlines>
+						<headline >
+						    <photo>andretapajos</photo>
+						    <title>O Mercado de Games</title>	
+						    <xmlfile>andretapajos.xml</xmlfile> 
+							<name>André Tapajós</name>
+							<filiation>CEO da Tap4 Mobile </filiation> 
+						</headline>
+						
+						<headline>
+							<title>Business Mindset: transformando desenvolvedores em empreendedores</title>
+						    <photo>robsonlisboa2</photo>
+						    <xmlfile>robsonlisboa.xml</xmlfile> 
+							<name>Robson Lisboa</name>
+							<filiation>Head de Sourcing and Partnership da Samsung América Latina </filiation> 		
+						</headline>
+					</headlines>
+				</schedule>
+				
+		   </schedules> 
+		</day>	
+		
+	</days>
+</talksprogram>

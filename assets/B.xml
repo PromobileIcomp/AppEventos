@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<session>
+	<chair>null</chair>
+	<local>Auditório Rio Javarí</local>
+
+	<papers>
+		<paper>
+			<title>B: Engajamento social através da Gamificação: utilizando a mecânica dos games em áreas que não são games.</title>
+			<abstract>Gamificação pode ser definida como a aplicação de elementos e técnicas de games em contextos não games como negócios, gestão e desafios de impacto social. A palestra tem por objetivo estimular o uso dos mecanismos de Gamificação como um recurso para promover o envolvimento e experiência do usuário. </abstract>
+			
+			<authors>
+				<author>
+					<name>Robson Souza</name>
+					<afiliation>SIDIA-Samsung</afiliation>
+					<email>null</email>
+				</author>
+			</authors>
+		</paper>
+	</papers>
+</session>
