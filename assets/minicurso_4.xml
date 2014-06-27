@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minicursodetail>
+    <resume>Resumo: This short course presents the fundamentals and applications of the State Machine Replication (SMR) technique for implementing consistent fault-tolerant services. Our focus here is threefold. First we present some fundamentals about distributed computing and three “practical” SMR protocols for different fault models. Second, we discuss some recent work aiming to improve the performance, modularity and robustness of SMR protocols. Finally, we present some prominent applications for SMR and an example of the real code needed for implementing a dependable service using the BFT-SMART replication library.</resume>
+</minicursodetail>

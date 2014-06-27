@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panelprogram>
+    <!--  coordinatorofthepanels>Prof. Carlos Kamienski (UFABC)</coordinatorofthepanels //devo colocar o coordenador dos painéis? --> 
+    <days>
+        <day>
+	    	<date>06/05/2014</date>
+	    	<url>http://www.sbrc2014.ufsc.br/?pg=paineis</url>
+			<schedules>    
+			    
+				<schedule>
+				    <start>16:00</start>
+				    <end>18:00</end>
+					<headlines>
+						<headline>
+						    <name>Painel 1</name>
+						    <title>SDN - Promessa ou Realidade?</title>
+						    <moderator>Christian Esteve Rothenberg (Unicamp)</moderator>
+						    <xmlfile>sdn_promessa_ou_realidade.xml</xmlfile> 
+							<panelists>
+							    <panelist>Marcelo Barcelos (Datacom)</panelist>
+							    <panelist>Cesar Marcondes (UFSCar)</panelist>
+							    <panelist>Joao Henrique de Souza Pereira (Algar)</panelist>
+							    <panelist>Julio Sirota (NIC.BR)</panelist>
+							</panelists>
+							<icon>apresentacao</icon>	
+						</headline>
+					</headlines>
+				</schedule>
+				
+		   </schedules> 
+		</day>	
+		
+        <day>
+	    	<date>07/05/2014</date>
+			<url>http://www.sbrc2014.ufsc.br/?pg=paineis</url>
+			<schedules>    
+			    
+				<schedule>
+				    <start>16:00</start>
+				    <end>18:00</end>
+					<headlines>
+						<headline>
+						    <name>Painel 2</name>
+						    <title>5G - Desafios e Perspectivas </title>
+						    <moderator> José Ferreira de Rezende (UFRJ)</moderator>
+						    <xmlfile>desafios_e_perspectivas.xml</xmlfile> 
+							<panelists>
+							    <panelist>Carlos Cordeiro (Intel Research) </panelist>
+							    <panelist>Francisco Rodrigo Cavalcanti (UFC)</panelist>
+							    <panelist>Rogério Loripe Guimarães (Ericsson) </panelist>
+							</panelists>	
+						</headline>
+					</headlines>
+				</schedule>
+				
+		   </schedules> 
+		</day>
+		
+        <day>
+	    	<date>08/05/2014</date>
+			<url>http://www.sbrc2014.ufsc.br/?pg=paineis</url>
+			<schedules>    
+			    
+				<schedule>
+				    <start>16:00</start>
+				    <end>18:00</end>
+					<headlines>
+						<headline>
+						    <name>Painel 3</name>
+						    <title> BDaaS - Big Data-as-a-Service </title>
+						    <moderator>José Neuman Souza (UFC)</moderator>
+						    <xmlfile>bdaas_big_data_as_a_service.xml</xmlfile> 
+							<panelists>
+							    <panelist>Marco Netto (IBM) </panelist>
+							    <panelist>Hermes Senger (UFSCar)</panelist>
+							    <panelist>Altigran Silva (UFAM)</panelist>
+							</panelists>	
+						</headline>
+					</headlines>
+				</schedule>
+				
+		   </schedules> 
+		</day>
+        
+	</days>
+</panelprogram>

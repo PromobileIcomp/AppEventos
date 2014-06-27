@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minicursosprogram>
+    <!--  coordinatorofthepanels>Prof. Carlos Kamienski (UFABC)</coordinatorofthepanels //devo colocar o coordenador dos painéis? --> 
+    <days>
+        <day>
+	    	<date>05/05/2014</date>
+	    	<url>http://www.sbrc2014.ufsc.br/?pg=minicursos</url>
+			<schedules>    
+			    
+				<schedule>
+				    <start>08:30</start>
+				    <end>12:00</end>
+					<headlines>
+						<headline>
+						    <name>Minicurso 1</name>
+						    <title>Network Function Virtualization: Perspectivas, Realidades e Desafios</title>
+						    <xmlfile>minicurso_1.xml</xmlfile> 
+						    <icon></icon>
+							<authors>
+							    <author>Raphael Rosa (UNICAMP)</author>
+								<author>Marcos Siqueira (UNICAMP)</author>
+								<author>Emerson Barea (UFSCar)</author>
+								<author>Cesar Marcondes (UFSCar)</author>
+								<author>Christian Rothenberg (UNICAMP)</author>
+							</authors>	
+						</headline>
+					</headlines>
+				</schedule>
+					
+				<schedule>
+				    <start>14:00</start>
+				    <end>18:00</end>
+	    
+				    <headlines>
+						<headline>
+						    <name>Minicurso 2</name>
+						    <title>DMZ Científica: Desafios e modelos de gerenciamento de aplicações de alto volume de dados no contexto de e-ciência</title>
+						    <xmlfile>minicurso_2.xml</xmlfile> 
+						    <icon></icon>
+							<authors>
+							    <author>Eduardo Cerqueira (UFPA)</author>
+							    <author>Tereza Carvalho</author>
+							    <author>Marcos Simplicio Jr</author>
+							    <author>Fernando Redigolo</author>
+							    <author>Marco Rojas</author>
+							    <author>Dino Magri (USP)</author>
+							</authors>	
+						</headline>
+				    
+						<headline>
+						    <name>Minicurso 3</name>
+						    <title>Multimedia Human-Centric Networking: Concepts, Technologies, and Trends</title>
+						    <xmlfile>minicurso_3.xml</xmlfile> 
+						    <icon></icon>
+							<authors>
+							    <author>Eduardo Cerqueira (UFPA)</author>
+								<author>Aldri dos Santos (UFPR)</author>
+								<author>Denis Rosário (UFPA)</author>
+								<author>Torsten Braun (University of Bern)</author>
+								<author>Mario Gerla (UCLA)</author>
+							</authors>	
+						</headline>
+					</headlines>
+				</schedule>
+		   </schedules> 
+		</day>
+        
+        <day>
+	    	<date>09/05/2014</date>
+	    	<url>http://www.sbrc2014.ufsc.br/?pg=minicursos</url>
+			<schedules>    
+			    
+				<schedule>
+				    <start>08:30</start>
+				    <end>12:00</end>
+					<headlines>
+						<headline>
+						    <name>Minicurso 4</name>
+						    <title>A Guided Tour on the Theory and Practice of State Machine Replication</title>
+						    <xmlfile>minicurso_4.xml</xmlfile> 
+						    <icon></icon>
+							<authors>
+							    <author>Alysson Bessani (Universidade de Lisboa)</author>
+								<author>Eduardo Alchieri (UnB)</author>
+							</authors>	
+						</headline>
+
+						<headline>
+						    <name>Minicurso 5</name>
+						    <title>Análise de Segurança para Soluções de Computação em Nuvem</title>
+						    <xmlfile>minicurso_5.xml</xmlfile> 
+						    <icon></icon>
+							<authors>
+							    <author>Charles Miers (UFSC)</author>
+								<author>Marcos Simplicio Jr</author>
+								<author>Tereza Carvalho (USP)</author>
+								<author>Guilherme Koslovski (UDESC)</author>
+								<author>Marco Rojas (USP)</author>
+								<author>Bruno Rodrigues (UDESC)</author>
+								<author>Leonardo Horn Iwaya</author>
+								<author>Bruno Barros (USP)</author>
+							</authors>
+						</headline>
+					</headlines>
+				</schedule>
+				
+				<schedule>
+				    <start>14:00</start>
+				    <end>18:00</end>
+					<headlines>
+						<headline>
+						    <name>Minicurso 6</name>
+						    <title>Green Clouds through Servers, Virtual Machines and Network Infrastructure Management</title>
+						    <xmlfile>minicurso_6.xml</xmlfile> 
+						    <icon></icon>
+							<authors>
+							    <author>Carlos Westphall</author>
+								<author>Carla Merkle Westphall</author>
+								<author>Sergio Villarreal</author>
+								<author>Guilherme Geronimo</author>
+								<author>Jorge Werner (UFSC)</author>
+							</authors>
+							<icon>apresentacao</icon>	
+						</headline>
+					</headlines>
+				</schedule>
+		   </schedules> 
+		</day>	
+	</days>
+</minicursosprogram>
+	
